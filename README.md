@@ -17,4 +17,7 @@ Cafe Management System that streamlined daily operations, improved customer expe
 * Improved skills in reporting and analytics, using data to drive insights and optimize cafe performance.
 * Successfully implemented real-time inventory control, reducing wastage and improving stock accuracy by 25%.
   
+## ERD Diagram
+![ERD(DB project) drawio](https://github.com/user-attachments/assets/d845c13c-5c5c-4e59-a869-c274c2ff1843)
+
 ### Technologies Used: SQL, Relational Databases, ERD, EER, Database Management Systems (DBMS)
